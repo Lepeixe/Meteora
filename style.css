@@ -1,0 +1,36 @@
+:root {
+
+    --color-verde: #DAFF01;
+    --color-lilás: #9353ff;
+}
+
+.color-verde {
+    color: var(--color-verde);
+}
+
+.color-lilás {
+    background-color: var(--color-lilás);
+}
+
+.texto-menor {
+    font-size: 1em;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.texto__carrosel {
+    font-size: 1em;
+    font-weight: 100;
+}
+
+.posicao {
+    top: 40%;
+}
+
+@media(max-width: 767px) {
+    .posicao{
+        top:60%;
+    }
+}
