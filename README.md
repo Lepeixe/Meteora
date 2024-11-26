@@ -1,2 +1,3 @@
 # Meteora
-Loja de Roupas
+Loja de Roupas - Responsivo
+(Bootstrap5)
